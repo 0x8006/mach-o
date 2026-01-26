@@ -7,7 +7,6 @@
 | osx           | `Mach-O`        |
 
 <!--
-
 ## some resources:
 - https://news.ycombinator.com/item?id=40616930
 - https://github.com/0xAX/asm
@@ -15,5 +14,4 @@
 
 ## additional for x86:
 - https://github.com/0xAX/asm
-
 -->
